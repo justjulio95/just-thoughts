@@ -27,6 +27,9 @@ To run tests, run the following command:
 
 There are currently no tests to run on this application.
 
+## Preview
+[Just Thoughts at work](https://drive.google.com/file/d/1M-nlu1ujlYaWR4w_2-ir3t_9fKv4lRtC/view)
+
 ## Questions
 If there are any questions concerning this project, please open an issue or contact me directly at just.julio95@gmail.com.
 
